@@ -6,7 +6,6 @@ radios_file = "radios.txt"
 final_list = open("final_list.txt", "a")
 first_word = "#EXTM3U"
 
-
 def write_first_line():
     final_list.write(first_word + "\n\n")
     final_list.close()
