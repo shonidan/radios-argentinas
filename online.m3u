@@ -1,11 +1,14 @@
 #EXTM3U
-#EXTINF:0,Estudio Playa (Timed out)
+
+#EXTINF:0 group-title=FM,RV Radio Victoria
+http://node-10.zeno.fm/sw4wwg2kwa0uv?rj-ttl=5&rj-tok=AAABdTiolFIAJIR1dAf3Piq9uQ
+#EXTINF:0 group-title=N/A,Estudio Playa (Timed out)
 http://09.solumedia.com.ar:8998/;stream.nsv
-#EXTINF:0,Radio Streaming (Default Quality)
+#EXTINF:0 group-title=N/A,Radio Streaming (Default Quality)
 https://sonicpanel.hostradios.com:7224/
-#EXTINF:0,Radio Streaming (Default Quality)
+#EXTINF:0 group-title=N/A,Radio Streaming (Default Quality)
 https://sonicpanel.hostradios.com:7224/
-#EXTINF:28,107 Blue (Server returned 404 Not Found)
+#EXTINF:0 group-title=N/A,107 Blue (Server returned 404 Not Found)
 https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough_static/fmblue/playlist.m3u8
 #EXTINF:0 group-title=N/A,Nacional rock
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39
