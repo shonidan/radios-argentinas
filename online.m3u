@@ -1,0 +1,652 @@
+#EXTM3U
+#EXTINF:0,Estudio Playa (Timed out)
+http://09.solumedia.com.ar:8998/;stream.nsv
+#EXTINF:0,Radio Streaming (Default Quality)
+https://sonicpanel.hostradios.com:7224/
+#EXTINF:0,Radio Streaming (Default Quality)
+https://sonicpanel.hostradios.com:7224/
+#EXTINF:28,107 Blue (Server returned 404 Not Found)
+https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough_static/fmblue/playlist.m3u8
+#EXTINF:0 group-title=N/A,Nacional rock
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39
+#EXTINF:0 group-title=N/A,Disney
+https://mdstrm.com/audio/5db1aedcf0829139c07b1285/icecast.audio
+#EXTINF:0 group-title=N/A,Club Octubre 94.7
+https://arcast.net:8445/FMGOL.MP3
+#EXTINF:0 group-title=N/A,Metro
+http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
+#EXTINF:0 group-title=N/A,Concepto
+http://servidor.ilive.com.ar:9330/;
+#EXTINF:0 group-title=N/A,Radio ISER
+http://200.43.192.20:8002/;type=mp3
+#EXTINF:0 group-title=N/A,Jai
+http://streamlky.alsolnet.com:443/radiojai
+#EXTINF:0 group-title=N/A,Nacional Clásica
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37
+#EXTINF:0 group-title=N/A,Vale
+https://s6.stweb.tv/vale/live/playlist.m3u8
+#EXTINF:0 group-title=N/A,Mega (Junín)
+http://69.175.20.242:8112/live
+#EXTINF:0 group-title=N/A,Nacional Folclórica
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38
+#EXTINF:0 group-title=N/A,Latina
+http://streaming.latina101.com.ar:8080/RadioLatina
+#EXTINF:0 group-title=N/A,Pop
+https://s11.stweb.tv/popradio/live/playlist.m3u8
+#EXTINF:0 group-title=N/A,Pop (Junín)
+http://69.175.20.242:8086/live
+#EXTINF:0 group-title=N/A,Perfil
+https://unlimited4-us.dps.live/perfil/gotardis/audio/now/livestream1.m3u8
+#EXTINF:0 group-title=N/A,Aspen
+http://playerservices.streamtheworld.com/api/livestream-redirect/ASPENAAC_SC
+#EXTINF:0 group-title=N/A,Pasión
+http://streamlky.alsolnet.com:443/fmpasion
+#EXTINF:0 group-title=N/A,La Patriada
+http://server4.stweb.tv:1935/lapatriada/live/playlist.m3u8
+#EXTINF:0 group-title=N/A,One
+http://server5.stweb.tv:1935/one/live/playlist.m3u8
+#EXTINF:0 group-title=N/A,One (repetidora)
+http://69.175.20.242:8128/live
+#EXTINF:0 group-title=N/A,Los 40
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA_SC
+#EXTINF:0 group-title=N/A,El Destape
+https://cdn2.instream.audio/:8000/stream
+#EXTINF:0 group-title=N/A,Universidad
+http://163.10.186.71:8001/broadwavehigh.mp3
+#EXTINF:0 group-title=N/A,Cadena Río
+http://70.38.54.14:7406/;
+#EXTINF:0 group-title=N/A,Keops
+http://streaming2.locucionar.com:8128/stream
+#EXTINF:0 group-title=N/A,Futura
+http://streamer.fmfutura.com.ar:8000/vivo.mp3
+#EXTINF:0 group-title=N/A,Revolución
+http://streaming01.shockmedia.com.ar:9878/stream
+#EXTINF:0 group-title=N/A,99.1
+http://01.solumedia.com.ar:8178/aac
+#EXTINF:0 group-title=N/A,La Redonda
+http://01.solumedia.com.ar:8290/aac
+#EXTINF:0 group-title=N/A,221
+http://01.solumedia.com.ar:8612/stream
+#EXTINF:0 group-title=N/A,Cielo
+http://st.produccionesdha.com:9790/;
+#EXTINF:0 group-title=N/A,Blue
+http://streaming.zonalaplata.com.ar:8200/;stream.mp3
+#EXTINF:0 group-title=N/A,Classique
+http://01.solumedia.com.ar:8562/;stream.nsv
+#EXTINF:0 group-title=N/A,Cantilo
+http://radio.solumedia.com.ar:7231/stream
+#EXTINF:0 group-title=N/A,En Tránsito
+http://stream.fmentransito.org.ar:8002/radio/live.aac
+#EXTINF:0 group-title=N/A,Nova
+http://62.210.129.76:9314/;
+#EXTINF:0 group-title=N/A,FMQ
+http://streamlky.alsolnet.com:443/radiofmq
+#EXTINF:0 group-title=N/A,LU9
+http://173.255.205.241:9000/;
+#EXTINF:0 group-title=N/A,LU6
+http://173.255.205.241:9090/;
+#EXTINF:0 group-title=N/A,De La Azotea
+http://streaming.radiodelaazotea.com.ar:8000/delaazotea
+#EXTINF:0 group-title=N/A,Estación Vinilo
+http://173.255.205.241:1127/;
+#EXTINF:0 group-title=N/A,La Red
+http://streaming01.shockmedia.com.ar:9926/stream
+#EXTINF:0 group-title=N/A,QSL
+http://audio.questreaming.com:20038/;
+#EXTINF:0 group-title=N/A,KLA
+http://streamconex.com:8104/;stream
+#EXTINF:0 group-title=N/A,Atlántica Latina
+http://173.255.205.241:7070/;
+#EXTINF:0 group-title=N/A,Living
+http://livingfm.com.ar:7040/;
+#EXTINF:0 group-title=N/A,Universidad
+http://fm.mdp.edu.ar:8000/;stream.mp3
+#EXTINF:0 group-title=N/A,Residencias
+http://01.solumedia.com.ar:8592/stream
+#EXTINF:0 group-title=N/A,Compacto
+http://compactofm.hopto.org:7040/stream.mp3
+#EXTINF:0 group-title=N/A,Brisas
+http://181.41.240.16:8030/live.mp3
+#EXTINF:0 group-title=N/A,Metro
+http://mp3.metroaudio1.stream.avstreaming.net:7200/metroMDQ
+#EXTINF:0 group-title=N/A,99.9
+http://fm999.info:8000/radio.ogg
+#EXTINF:0 group-title=N/A,Planet Music
+http://streamall.alsolnet.com:443/planetmdq
+#EXTINF:0 group-title=N/A,101 Master
+http://questreaming.info:28277/;
+#EXTINF:0 group-title=N/A,101.9
+http://radio.netyco.com:8712/stream
+#EXTINF:0 group-title=N/A,Acqua
+http://streamall.alsolnet.com:443/acquamdq
+#EXTINF:0 group-title=N/A,Universo
+http://173.255.205.241:8128
+#EXTINF:0 group-title=N/A,Inolvidable
+http://184.107.35.153:9062/;
+#EXTINF:0 group-title=N/A,Amor
+http://streamall.alsolnet.com:443/amorenelaire
+#EXTINF:0 group-title=N/A,LU2
+https://icecast2.hostingbahia.com.ar:8040/live
+#EXTINF:0 group-title=N/A,LU3
+http://190.1.0.5:8060/;#.mp3
+#EXTINF:0 group-title=N/A,De La Calle
+http://190.1.0.5:8072/;stream.mp3
+#EXTINF:0 group-title=N/A,Pop
+http://217.172.179.57:8060/PopBahiaBlanca;
+#EXTINF:0 group-title=N/A,De La Bahía
+http://icecast.hostingbahia.com.ar:8010/live
+#EXTINF:0 group-title=N/A,Radio 10
+http://217.172.179.57:8070/Radio10BahiaBlanca;
+#EXTINF:0 group-title=N/A,La Brújula 24
+http://icecast.hostingbahia.com.ar:8020/live
+#EXTINF:0 group-title=N/A,Ciudad
+http://icecast2.hostingbahia.com.ar:8042/live
+#EXTINF:0 group-title=N/A,Universal
+http://190.1.0.5:8000/;stream.mp3
+#EXTINF:0 group-title=N/A,NQP
+http://cdn.instream.audio:8111/stream
+#EXTINF:0 group-title=N/A,Mitre
+http://217.172.179.57:8050/MitreBahiaBlanca;
+#EXTINF:0 group-title=N/A,Music
+http://190.1.0.5:8035/;
+#EXTINF:0 group-title=N/A,La 100
+http://217.172.179.57:8020/La100BahiaBlanca;
+#EXTINF:0 group-title=N/A,Palihue
+http://radios.hostingbahia.com.ar:10400/;
+#EXTINF:0 group-title=N/A,Norte
+http://icecast.hostingbahia.com.ar:8002/live
+#EXTINF:0 group-title=N/A,Rosales
+http://01.solumedia.com.ar:8166/;stream.nsv
+#EXTINF:0 group-title=N/A,LU24
+http://streaming.shockmedia.com.ar:9832/stream
+#EXTINF:0 group-title=N/A,Ilusiones
+http://streaming.shockmedia.com.ar:9830/stream
+#EXTINF:0 group-title=N/A,Radio Comunidad Argentina
+http://fmrca.servehttp.com:8000/1017.opus
+#EXTINF:0 group-title=N/A,Indie Rock
+http://miradioenlaweb.com:4700/;
+#EXTINF:0 group-title=N/A,RCC
+http://servidor.i-live.com.ar:8022/;
+#EXTINF:0 group-title=N/A,Estación Marina
+http://st.produccionesdha.com:9438/;
+#EXTINF:0 group-title=N/A,Zona
+http://142.44.135.172:8008/live
+#EXTINF:0 group-title=N/A,Magic Box
+http://stream01.insidetec.com:9152/magicbox
+#EXTINF:0 group-title=N/A,Premier
+http://server1.dainusradio.com:9914/;
+#EXTINF:0 group-title=N/A,Hit Music
+http://server1.veemesoft.com.ar:9382/;
+#EXTINF:0 group-title=N/A,Frecuencia Arena
+https://alpha.radioplayer.com.ar:9290/fmarena983
+#EXTINF:0 group-title=N/A,Pop
+http://server4.veemesoft.com.ar:26952/;
+#EXTINF:0 group-title=N/A,Fenix
+http://streaming01.shockmedia.com.ar:9628/stream
+#EXTINF:0 group-title=N/A,LU32
+http://s1.radiosnethosting.com:9966/;s.mp3/;stream.mp3
+#EXTINF:0 group-title=N/A,La 90
+http://streaming2.locucionar.com:8107/stream
+#EXTINF:0 group-title=N/A,98 Pop
+http://streaming.localhost.net.ar:8004/;?type=http&nocache=13
+#EXTINF:0 group-title=N/A,Tiempo
+http://st.produccionesdha.com:9532/;
+#EXTINF:0 group-title=N/A,Radio Eme
+http://63.247.91.178:14559/stream
+#EXTINF:0 group-title=N/A,FM Del Sol
+http://streaming2.locucionar.com:8179/stream
+#EXTINF:0 group-title=N/A,JCU
+http://radio.argentinastream.info:25409/live
+#EXTINF:0 group-title=N/A,FM Ciudad Pringles
+http://streaming2.locucionar.com:8187/stream
+#EXTINF:0 group-title=N/A,Transformación
+http://200.5.72.135:8000/;stream.mp3
+#EXTINF:0 group-title=N/A,FM Pringles 100.3
+http://streaming4.wnpower.com:8410/;stream.mp3
+#EXTINF:0 group-title=N/A,Fantástica
+http://server.laradio.online:25171/live
+#EXTINF:0 group-title=N/A,La Dorrego AM 1470
+http://stm11.bahiahosting.com:9006/;
+#EXTINF:0 group-title=N/A,LU36
+http://radio.solumedia.com.ar:8014/stream
+#EXTINF:0 group-title=N/A,Dale
+http://01.solumedia.com.ar:8238/stream
+#EXTINF:0 group-title=N/A,Urbana
+http://streaming2.locucionar.com:8255/stream
+#EXTINF:0 group-title=N/A,LU34
+http://s1.radiosnethosting.com:9876/;stream.nsv&type=mp3
+#EXTINF:0 group-title=N/A,Impacto
+http://server3.veemesoft.com.ar:26509/stream
+#EXTINF:0 group-title=N/A,Estación K2
+http://streamall.alsolnet.com:443/k2hd
+#EXTINF:0 group-title=N/A,Maestra
+http://streamall.alsolnet.com:443/radiomaestra
+#EXTINF:0 group-title=N/A,Radio Ciudad
+http://01.solumedia.com.ar:8042/;stream.mp3
+#EXTINF:0 group-title=N/A,LU10
+http://servidor.ilive.com.ar:9320/;#.mp3
+#EXTINF:0 group-title=N/A,Radio de la Sierra
+http://radio.solumedia.com.ar:8522/stream
+#EXTINF:0 group-title=N/A,AM 1210 Radio Las Flores
+http://streaming1.locucionar.com:13402/stream
+#EXTINF:0 group-title=N/A,Magic
+http://01.solumedia.com.ar:8052/aac
+#EXTINF:0 group-title=N/A,Mágica
+http://www.alsolnet.com/stream/magicalobos/listen.pls
+#EXTINF:0 group-title=N/A,Cadena Cumbia Latina
+http://www.alsolnet.com/stream/cadenacumbia/listen.pls
+#EXTINF:0 group-title=N/A,FM Roque Pérez 91.9
+http://streaming2.locucionar.com:8527/stream
+#EXTINF:0 group-title=N/A,Mix
+http://streaming.radiolinksmedia.com:7931/;
+#EXTINF:0 group-title=N/A,Ciudad
+http://3.220.182.8:8400/stream.mp3
+#EXTINF:0 group-title=N/A,La 105
+http://63.247.65.202:8237/stream
+#EXTINF:0 group-title=N/A,One 94.7
+http://01.solumedia.com.ar:8928/aac?fbclid=IwAR045o8PINEPFV3QA-mQoMi6GNOKsEkXKvj2Qq_3_rBaaitnYXFttc0ekbI
+#EXTINF:0 group-title=N/A,LT35 Radio Mon AM 1540
+http://63.247.65.202:8219/stream
+#EXTINF:0 group-title=N/A,Flash 99.9
+http://s1.radiosnethosting.com:9858/;stream.nsv&type=mp3
+#EXTINF:0 group-title=N/A,T20
+http://radio.solumedia.com.ar:8260/stream
+#EXTINF:0 group-title=N/A,La Radio 92.3
+http://streaming4.wnpower.com:8080/stream
+#EXTINF:0 group-title=N/A,Cielo
+http://streamall.alsolnet.com:443/radiocielo
+#EXTINF:0 group-title=N/A,La 1035
+http://stream.zeno.fm/bt18614dvhruv
+#EXTINF:0 group-title=N/A,Simple
+http://198.50.206.239:8022/;
+
+vRadio Ciudad de Luján
+http://s2.radiosnethosting.com:9750/;
+#EXTINF:0 group-title=N/A,FM Full 94.9
+http://nvradios.com:9396/;
+#EXTINF:0 group-title=N/A,Cadena 3
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENA3.mp3
+#EXTINF:0 group-title=N/A,FM Córdoba
+http://playerservices.streamtheworld.com/api/livestream-redirect/FM_CORDOBA.mp3
+#EXTINF:0 group-title=N/A,Popular
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_POPULAR.mp3
+#EXTINF:0 group-title=N/A,Cosquín Rock
+http://server.laradio.online:8799/live?1549483639043
+#EXTINF:0 group-title=N/A,Radio María
+http://dreamsiteradiocp.com:8004/
+#EXTINF:0 group-title=N/A,Shopping
+http://suenas.net:8090/shoppingclassics
+#EXTINF:0 group-title=N/A,Radio de Folclore
+http://streaming01.shockmedia.com.ar:9910/;
+#EXTINF:0 group-title=N/A,Pobre Jonny
+https://stream4.suenas.net/pobrejohnny
+#EXTINF:0 group-title=N/A,Grupo Maradón 104.1
+http://servidor.ilive.com.ar:9234/;
+#EXTINF:0 group-title=N/A,Radio 2
+http://radio2.radio.rosario3.com:8000/prueba2
+#EXTINF:0 group-title=N/A,LT8
+http://stream.lt8.com.ar:8080/lt8radio.mp3
+#EXTINF:0 group-title=N/A,Radio Nacional Rosario AM 1300
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad5
+#EXTINF:0 group-title=N/A,Fahrenheit
+http://200.58.106.247:8624/;
+#EXTINF:0 group-title=N/A,Boing
+http://200.58.106.247:8626/;
+#EXTINF:0 group-title=N/A,Vida
+http://fmvida.radio.rosario3.com:8000/fmvida.mp3
+#EXTINF:0 group-title=N/A,Del Siglo
+http://stream.lt8.com.ar:8080/delsiglo995.mp3
+#EXTINF:0 group-title=N/A,Radiofónica
+http://200.58.106.247:8628/;
+#EXTINF:0 group-title=N/A,Radio 10
+http://63.247.76.50:8054/;
+#EXTINF:0 group-title=N/A,Cristal Classic
+http://63.247.76.50:8030/;
+#EXTINF:0 group-title=N/A,Universidad
+http://01.solumedia.com.ar:8442/stream
+#EXTINF:0 group-title=N/A,La red
+http://stream.lt8.com.ar:8080/laredrosario.mp3
+#EXTINF:0 group-title=N/A,LT9
+http://63.247.91.178:12294/stream
+#EXTINF:0 group-title=N/A,Radio Gol
+http://200.58.106.247:8330/;stream/1
+#EXTINF:0 group-title=N/A,Stylo
+http://67.212.166.178:7200/listen.pls
+#EXTINF:0 group-title=N/A,LT14
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad44
+#EXTINF:0 group-title=N/A,FM Del Mar
+http://radios.streamingnacional.com:6534/;
+#EXTINF:0 group-title=N/A,LV10 Radio De Cuyo
+http://audio.bustream.com:8062/stream
+#EXTINF:0 group-title=N/A,LV8 Radio Libertador
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad48
+#EXTINF:0 group-title=N/A,Estación del Sol
+http://audio.bustream.com:8064/stream
+#EXTINF:0 group-title=N/A,FM La Voz
+http://96.30.21.126:9980/;stream.nsv
+#EXTINF:0 group-title=N/A,Urbana
+http://streaming.radiolinksmedia.com:7145/;
+#EXTINF:0 group-title=N/A,Radio Ancasti
+http://miradioenlaweb.com:10010/;
+#EXTINF:0 group-title=N/A,LV12 Radio Independencia
+http://s1.radiosnethosting.com:8032/stream/;stream.mp3
+#EXTINF:0 group-title=N/A,LV7
+http://01.solumedia.com.ar:8758/stream
+#EXTINF:0 group-title=N/A,Dínamo 100.9
+http://01.solumedia.com.ar:8144/;
+#EXTINF:0 group-title=N/A,Trópico
+https://5975e06a1f292.streamlock.net:4443/radio/tropico.stream/playlist.m3u8
+#EXTINF:0 group-title=N/A,Feeling
+http://turadioenvivo.com:8430/stream
+#EXTINF:0 group-title=N/A,Sudamericana
+http://turadioenvivo.com:8530/stream?1562165478826
+#EXTINF:0 group-title=N/A,Radio Top
+http://radio.neonetdigital.com:8028/;
+#EXTINF:0 group-title=N/A,Cadena del Sol
+http://streamlky.alsolnet.com:443/fmdelsol
+#EXTINF:0 group-title=N/A,LU18 Radio El Valle
+http://streamingraddios.net:7997/stream
+#EXTINF:0 group-title=N/A,La Cima
+http://server9.veemesoft.com.ar:11010/;
+#EXTINF:0 group-title=N/A,Galas
+http://audio.questreaming.com:25859/;
+#EXTINF:0 group-title=N/A,LU5
+http://live.lu5am.com:8000/LU5
+#EXTINF:0 group-title=N/A,FM de la Montaña
+http://fmdelamontana.ddns.net:8000/stream
+#EXTINF:0 group-title=N/A,News
+http://serv3.veemesoft.com.ar:26545/;
+#EXTINF:0 group-title=N/A,Viva
+http://200.58.106.247:8548/;?type=http&nocache=23152
+#EXTINF:0 group-title=N/A,Radio Carolina
+http://server3.veemesoft.com.ar:26629/;
+#EXTINF:0 group-title=N/A,LU17Radio Golfo Nuevo AM 540
+http://138.36.96.199:8001/lu17
+#EXTINF:0 group-title=N/A,Paraíso
+http://138.36.96.199:8001/livehd
+#EXTINF:0 group-title=N/A,FM del Viento
+http://cdn.instream.audio:9125/stream
+#EXTINF:0 group-title=N/A,Record Estación
+http://st.produccionesdha.com:9562/;
+#EXTINF:0 group-title=N/A,Lu14
+http://200.5.203.82:8000/lu14.ogg
+#EXTINF:0 group-title=N/A,LU23
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad49
+#EXTINF:0 group-title=N/A,Desire 101.7
+http://144.217.30.219:8055/index.html;
+#EXTINF:0 group-title=N/A,Centro
+http://audio.productoravisual.com:6228/;
+#EXTINF:0 group-title=N/A,Radio Fueguina
+http://streamall.alsolnet.com:443/radiofueguina
+#EXTINF:0 group-title=N/A,Sarandí
+https://d1a7butsko8nkd.cloudfront.net/sarandi.mp3
+#EXTINF:0 group-title=N/A,Sport
+https://d1a7butsko8nkd.cloudfront.net/sport.mp3
+#EXTINF:0 group-title=N/A,Universal
+http://radio.970universal.com:8010/;
+#EXTINF:0 group-title=N/A,Uruguay 1050:
+http://173.249.7.231:8084/stream
+#EXTINF:0 group-title=N/A,Clarín
+http://usa15.ciudaddigital.com.uy:8032/ClarinAM
+#EXTINF:0 group-title=N/A,Oldies
+http://51.15.152.81:8085/;stream/1
+#EXTINF:0 group-title=N/A,Océano
+http://radio1.oceanofm.com:8010/listen.pls&type=mp3
+#EXTINF:0 group-title=N/A,Emisora del Sur
+http://173.249.7.231:8100/stream
+#EXTINF:0 group-title=N/A,Babel
+http://173.249.7.231:8092/stream
+#EXTINF:0 group-title=N/A,Del Sol
+http://radio.dl.uy:9950/radio
+#EXTINF:0 group-title=N/A,Azul
+http://198.204.234.10:8294/live
+#EXTINF:0 group-title=N/A,Metrópolis
+http://51.15.152.81:8141/;stream/0
+#EXTINF:0 group-title=N/A,Música demás
+http://emisiones.com.uy:8120/demas
+#EXTINF:0 group-title=N/A,Bebana
+http://01.solumedia.com.ar:7537/aac
+#EXTINF:0 group-title=N/A,Feeling
+http://www.turadioenvivo.com:8430/stream
+#EXTINF:0 group-title=N/A,Congo.fm
+http://cdn.instream.audio:9243/live
+#EXTINF:0 group-title=N/A,Futurock
+http://cdn2.instream.audio:8007/stream
+#EXTINF:0 group-title=N/A,La Colifata
+http://streamall.alsolnet.com:443/lacolifata
+#EXTINF:0 group-title=N/A,Redium (Claromecó)
+http://01.solumedia.com.ar:7840/aac
+#EXTINF:0 group-title=N/A,Impacto
+http://server3.veemesoft.com.ar:26509/listen.pls
+#EXTINF:0 group-title=N/A,Radio Libertad AM 1090
+http://streaming2.locucionar.com:8669/stream
+#EXTINF:0 group-title=N/A,Radio Dimensión AM 940
+http://aliasdns.info:8114/live
+#EXTINF:0 group-title=N/A,LU18 Radio El Valle
+http://streamingraddios.net:7997/listen.pls
+#EXTINF:0 group-title=N/A,Platinum
+http://streaming2.locucionar.com:8106/stream
+#EXTINF:0 group-title=N/A,Continental
+https://20833.live.streamtheworld.com/CONTINENTALAAC.aac
+#EXTINF:0 group-title=N/A,Continental
+http://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTAL_SC
+#EXTINF:0 group-title=N/A,ContinentalBelgrano 650
+http://server.laradio.online:25223/live.mp3
+#EXTINF:0 group-title=N/A,ContinentalRadio 10
+https://s6.stweb.tv/radio10/live/playlist.m3u8
+#EXTINF:0 group-title=N/A,ContinentalRadio 10 (Junín)
+http://69.175.20.242:8122/live
+#EXTINF:0 group-title=N/A,ContinentalRebelde
+http://miradioenlaweb.com:6358/
+#EXTINF:0 group-title=N/A,ContinentalAM 750
+http://192.99.38.174:9342/stream#10516
+#EXTINF:0 group-title=N/A,ContinentalCooperativa
+http://rcoop.cnwks.ws:8358/;
+#EXTINF:0 group-title=N/A,ContinentalDel Pueblo
+http://streaming.radiolinksmedia.com:7830/;
+#EXTINF:0 group-title=N/A,ContinentalNacional
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
+#EXTINF:0 group-title=N/A,ContinentalLibre
+http://01.solumedia.com.ar:8420/;stream.nsv
+#EXTINF:0 group-title=N/A,ContinentalLa Red
+https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough_static/amlared/playlist.m3u8
+#EXTINF:0 group-title=N/A,ContinentalCNN
+http://estudio.cnnradioargentina.com.ar:8000/stream
+#EXTINF:0 group-title=N/A,ContinentalOnda Latina
+http://01.solumedia.com.ar:8446/stream.aac
+#EXTINF:0 group-title=N/A,ContinentalDel Plata
+http://181.119.157.98:8000/amdelplata.mp3
+#EXTINF:0 group-title=N/A,ContinentalDe La Ciudad
+http://radios.argentina.fm:1110/stream
+#EXTINF:0 group-title=N/A,ContinentalEco Medios
+http://ample-zeno-09.radiojar.com/uv3vkhw2qvduv?rj-ttl=5&rj-token=AAABYfUFSa57nKraxouYhCZCpOP8fzTaPN
+#EXTINF:0 group-title=N/A,ContinentalOctubre
+https://arcast.net:8443/oktubre.mp3
+#EXTINF:0 group-title=N/A,ContinentalRadio Con Vos
+https://server1.stweb.tv/rcvos/live/playlist.m3u8
+#EXTINF:0 group-title=N/A,ContinentalDelta
+http://cdn.instream.audio:9069/stream
+#EXTINF:0 group-title=N/A,ContinentalAmadeus:
+http://18.220.84.192:8484/;
+#EXTINF:0 group-title=FM,Vorterix Rock 92.1
+http://104.131.4.100:8000/stream
+#EXTINF:0 group-title=FM,La 2x4
+http://radios.argentina.fm:9270/stream
+#EXTINF:0 group-title=FM,Late
+http://streaming.radiolinksmedia.com:8252/;stream
+#EXTINF:0 group-title=N/A,FM KISS ESPAÑA
+http://kissfm.kissfmradio.cires21.com/kissfm.mp3
+#EXTINF:0 group-title=N/A,LRTE FM 91.3 CABA
+http://st.produccionesdha.com:9300/;
+#EXTINF:0 group-title=N/A,RADIO MARIA ARGENTINA
+http://dreamsiteradiocp2.com:8008/;?1520231200773.mp3
+#EXTINF:0 group-title=N/A,RADIO SUR 88.3 CABA
+https://www.radiosur.org.ar/noticias/8591/audclaudiakoroldepauelosenrebelda.mp3
+#EXTINF:0 group-title=N/A,SUBTERADIO 101.7 CABA
+http://01.solumedia.com.ar:8164/;
+#EXTINF:0 group-title=N/A,FM TRANCE 103.9 CABA
+http://streaming01.digitalwebs.com.ar:8100/;
+#EXTINF:0 group-title=N/A,RADIO NACIONAL NEUQUEN AM 970
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad73
+#EXTINF:0 group-title=N/A,FM CADENA UNO 94.3 NEUQUEN
+http://server.laradio.online:8125/;
+#EXTINF:0 group-title=N/A,RADIO HORIZONTE 103.1 SANTA ROSA
+http://streaming.localhost.net.ar:8000/;
+#EXTINF:0 group-title=N/A,FM POWER 103.7 S.ROSA
+http://209.95.35.49:7039/live
+#EXTINF:0 group-title=N/A,RADIO PATAGONIA ARGENTINA LU4 AM 630 C. RIVADAVIA
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad42
+#EXTINF:0 group-title=N/A,RADIO NACIONAL FORMOSA AM 990
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad8
+#EXTINF:0 group-title=N/A,FM TOP 104.9 CABA
+http://62.210.129.76:7940/;
+#EXTINF:0 group-title=N/A,Radio Punto
+http://serv3.veemesoft.com.ar:26619/;
+#EXTINF:0 group-title=N/A,221
+http://01.solumedia.com.ar:8612/;stream.nsv
+#EXTINF:0 group-title=N/A,Nacional Bahía
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad13
+#EXTINF:0 group-title=N/A,Vale
+http://217.172.179.57:8030/ValeBahiaBlanca;
+#EXTINF:0 group-title=N/A,LU6
+http://173.255.205.241:9090/listen.pls
+#EXTINF:0 group-title=N/A,LU9
+http://173.255.205.241:9000/;stream.mp3
+#EXTINF:0 group-title=N/A,Atlántica Latina
+http://173.255.205.241:7070/listen.pls
+#EXTINF:0 group-title=N/A,LU24
+http://streaming.shockmedia.com.ar:9832/listen.pls
+#EXTINF:0 group-title=N/A,FM Ilusiones
+http://streaming.shockmedia.com.ar:9830/listen.pls
+#EXTINF:0 group-title=N/A,RadioColonia550
+https://streaming1.hostingmontevideo.com:7019/;
+#EXTINF:0 group-title=N/A,RadioArgentina570
+http://server.laradio.online:25224/live.mp3
+#EXTINF:0 group-title=N/A,Radio10710
+http://s6.stweb.tv/radio10/live/playlist.m3u8
+#EXTINF:0 group-title=N/A,RadioRebelde740
+http://servidor.01argentina.com.ar:6358
+#EXTINF:0 group-title=N/A,AM750750
+http://192.99.38.174:9342/stream
+#EXTINF:0 group-title=N/A,AM750750
+https://arcast.com.ar:9501/AM750.MP3
+#EXTINF:0 group-title=N/A,Cooperativa770
+http://rcoop.cnwks.ws:8358
+#EXTINF:0 group-title=N/A,RadioMitre790
+https://buecrplb01.cienradios.com.ar/Mitre790.aac
+#EXTINF:0 group-title=N/A,RadioLaLuna1140
+http://server.ohradio.com.ar:9344/;
+#EXTINF:0 group-title=N/A,Ecomedios1220
+http://ample-zeno-09.radiojar.com/uv3vkhw2qvduv
+#EXTINF:0 group-title=N/A,Delta90.3
+https://cdn.instream.audio/:9069/stream
+#EXTINF:0 group-title=N/A,Vale97.5
+http://vale.stweb.tv:1935/vale/live/playlist.m3u8
+#EXTINF:0 group-title=N/A,Cultura97.9
+https://usa5.fastcast4u.com/proxy/radiocultura
+#EXTINF:0 group-title=N/A,Pop101.5
+https://s8.stweb.tv/popradio/live/playlist.m3u8
+#EXTINF:0 group-title=N/A,Aspen102.3
+http://playerservices.streamtheworld.com/api/livestream-redirect/ASPENAAC
+#EXTINF:0 group-title=N/A,One103.7
+http://s11.stweb.tv/one/live/playlist.m3u8
+#EXTINF:0 group-title=N/A,Los40105.5
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC
+#EXTINF:0 group-title=N/A,ESPN107.9
+http://edge.espn.cdn.abacast.net/espn-deportesmp3-48
+#EXTINF:0 group-title=N/A,RadioMitre790
+http://buecrplb01.cienradios.com.ar/Mitre790.aac
+#EXTINF:0 group-title=N/A,La10099.9
+http://buecrplb01.cienradios.com.ar/la100.aac
+#EXTINF:0 group-title=N/A,Gamba
+http://gambafm.lorini.net:10630/stream
+#EXTINF:0 group-title=FM,FM Identidad
+http://desatec.net:8726/stream
+#EXTINF:0 group-title=N/A,Radio City Villa del Rosario
+http://questreaming.info:25236/stream
+#EXTINF:0 group-title=N/A,radio lv26 rio tercero
+http://201.220.156.154:8100/;
+#EXTINF:0 group-title=N/A,Radio Folclorisimo
+http://streamlky.alsolnet.com:443/radiofolclorisimohd
+#EXTINF:0 group-title=N/A,Radio Mansa
+http://suenas.net:8090/mansa
+#EXTINF:0 group-title=N/A,Radio 100 Las Varillas
+http://arcast.com.ar:1935/radio/la100lasvarillas.stream/chunklist_w1959608847.m3u8
+#EXTINF:0 group-title=N/A,cadena rio La Plata
+http://70.38.54.14:7406/
+#EXTINF:0 group-title=N/A,Rivadavia AM 630
+https://21933.live.streamtheworld.com/RIVADAVIAAAC.aac
+#EXTINF:0 group-title=N/A,LT29 Venado Tuerto
+http://01.solumedia.com.ar:7201/;?_=0.05232741728106194
+#EXTINF:0 group-title=N/A,Milenio 101.5
+https://streaming.radiosenlinea.com.ar/8476/stream
+#EXTINF:0 group-title=N/A,RADIO DEL PLATA 94.7
+http://200.58.106.247:8584
+#EXTINF:0 group-title=N/A,101.9 Estacion Marina
+https://radios.streamingdha.com.ar:7009/;
+#EXTINF:0 group-title=N/A,La cielo 103.5
+https://radios.streamingdha.com.ar:7006/;
+#EXTINF:0 group-title=N/A,Radio dos Rosario
+https://streaming320tb.locucionar.com/proxy/radio2?mp=/stream
+#EXTINF:0 group-title=N/A,LT8 Rosario
+https://stream.lt8.com.ar:8443/lt8radio.mp3
+#EXTINF:0 group-title=N/A,LT3 Rosario
+http://188.165.179.141:8000/;stream.mp3
+#EXTINF:0 group-title=N/A,RADIO TOP 1049
+http://62.210.129.76:7940/
+#EXTINF:0 group-title=N/A,AM 630
+https://5975e06a1f292.streamlock.net:4443/radio/am630.stream/playlist.m3u8
+#EXTINF:0 group-title=N/A,Cadena tres ARG
+https://20323.live.streamtheworld.com/CADENA3.mp3
+#EXTINF:0 group-title=N/A,POP 101.5
+https://s11.stweb.tv/popradio/live/chunks.m3u8
+#EXTINF:0 group-title=N/A,Nacional Tucumán
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad15
+#EXTINF:0 group-title=N/A,Concepto FM
+http://servidor.ilive.com.ar:9330/
+#EXTINF:0 group-title=N/A,Radio estacion sur
+http://209.95.35.49:7172/stream
+#EXTINF:0 group-title=N/A,Radio del Pueblo
+http://3.223.187.189:7830/
+#EXTINF:0 group-title=N/A,Nacional Resistencia
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad26
+#EXTINF:0 group-title=N/A,Nacional Salta
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad4
+#EXTINF:0 group-title=N/A,Nacional Ushuaia
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad10
+#EXTINF:0 group-title=N/A,RADIO COMUNIDAD CLAROMECO
+http://servidor.i-live.com.ar:8022/
+#EXTINF:0 group-title=N/A,Disney
+https://us-b4-p-e-az1-audio.cdn.mdstrm.com/live-audio/5b7dcf9b7f880d076b1ed74d/5db1aedcf0829139c07b1285/icecast.audio
+#EXTINF:0 group-title=N/A,Pasion
+http://streamall.alsolnet.com:8080/cadenapasion
+#EXTINF:0 group-title=N/A,Cadena 3
+http://20823.live.streamtheworld.com/CADENA3.mp3
+#EXTINF:0 group-title=N/A,Congo
+http://cdn2.instream.audio:9243/live
+#EXTINF:0 group-title=N/A,Radio Mitre AM790
+https://radiomm.000webhostapp.com/
+#EXTINF:0 group-title=N/A,Redio Maria
+https://dreamsiteradiocp.com/proxy/argentinarm?mp=/stream
+#EXTINF:0 group-title=N/A,Cadena 3
+https://c3ny1.mediainbox.net/cadena3.mp3
+#EXTINF:0 group-title=N/A,Popular
+https://c3ny1.mediainbox.net/popular.mp3
+#EXTINF:0 group-title=N/A,Mega 98.3
+https://mega.stweb.tv/mega983/live/chunks.m3u8
+#EXTINF:0 group-title=N/A,AM530 Somos Radio
+https://cdn2.instream.audio/:8001/stream
+#EXTINF:0 group-title=N/A,ACTIVA 96.5 MHZ ITUZAINGO
+https://server4.hostradios.com:7089/stream.aac
+#EXTINF:0 group-title=N/A,STREET POSADAS
+http://cdn2.instream.audio:8008/stream
+#EXTINF:0 group-title=N/A,Chipi radio
+http://streaming.escuchanosonline.com:8224/
+#EXTINF:0 group-title=N/A,Radio Relatores
+http://web.relatores.com.ar/radio.mp3
+#EXTINF:0 group-title=N/A,107.9 Rosario
+http://streaming.tudns7.info:8012/;
+#EXTINF:0 group-title=N/A,Radio Popular
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_POPULAR_SC
+#EXTINF:0 group-title=N/A,Popular Tandil
+http://miradioenlaweb.com:13260/;
