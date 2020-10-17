@@ -11,7 +11,6 @@ def write_first_line():
     final_list.write(first_word + "\n\n")
     final_list.close()
 
-
 if first_word in open('final_list.txt').read():
     print("Word '#EXTM3U' found")
 else:
