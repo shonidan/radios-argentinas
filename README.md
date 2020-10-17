@@ -14,6 +14,7 @@ Dejar en los comentarios la radio que desea publicar de la siguiente manera:
 # Como se arma la lista
 
 Se agregan las radios en un archivo "radios.txt" donde debe respetarse el formato que se expuso anteriormente.
+
 {FM} [Nombre de tu radio 1] (Tu URL1)
 {AM} [Nombre de tu radio 2] (Tu URL2)
 
