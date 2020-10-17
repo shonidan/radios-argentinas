@@ -25,7 +25,7 @@ Se ejecuta el archivo python, el cual arma la lista final.
 $ python3 recolector_radios_m3u.py
 ```
 Archivo final
->>> final_list.m3u
+> final_list.m3u
 
 ### Filtrar radios activas
 [iptv-checker]: <https://www.npmjs.com/package/iptv-checker>
