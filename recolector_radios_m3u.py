@@ -17,13 +17,6 @@ if first_word in open('final_list.txt').read():
 else:
     write_first_line()
 
-#Verificar si hay datos repetidos
-with open("radios.txt", "w") as output_file:
-    for each_line in open("url_list.txt", "r"):
-        if each_line not in lines_seen:  # check if line is not duplicate
-            output_file.write(each_line)
-            lines_seen.add(each_line)
-
 with open(radios_file, "r") as radio_list:
     for line in radio_list:
         modulation = line[line.find("{")+1:line.find("}")]
