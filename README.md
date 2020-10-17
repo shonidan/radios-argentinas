@@ -5,7 +5,7 @@ Pequeño script en python que recolecta radios y los agrega en un archivo M3u.
 
   - Las radios se extrajeron de (https://gist.github.com/pisculichi/fae88a2f5570ab22da53).
   - Se incluyen radios extraidas de comentarios.
-  - Ultima comentario extraido >>> 15/10/2020
+  - Ultima radio de comentario extraido >>> 15/10/2020
 
 # Como sumar tu radio en los comentarios
 Dejar en los comentarios la radio que desea publicar de la siguiente manera: 
