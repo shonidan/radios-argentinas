@@ -1,4 +1,4 @@
-![Build Status](https://raw.githubusercontent.com/C0MODIN/radios-argentinas/main/imagenes/separador.png)]
+![Build Status](https://raw.githubusercontent.com/C0MODIN/radios-argentinas/main/imagenes/separador.png)
 
 # Recolección de radios Argentinas
 Pequeño script en python que recolecta radios y los agrega en un archivo M3u.
