@@ -29,7 +29,7 @@ Archivo final
 
 ### Filtrar radios activas
 [iptv-checker]: <https://www.npmjs.com/package/iptv-checker>
-[iptv-check]: <https://github.com/peterpt/IPTV-CHECK>
+[IPTV-CHECK]: <https://github.com/peterpt/IPTV-CHECK>
 Para limpiar la lista de radios que no se encuentren activas hacemos uso de dos herramientas.
   * [iptv-checker] - Node.js CLI tool for checking links in IPTV playlists.
-  * [iptv-checker] - Script tool to validate url's online.
+  * [IPTV-CHECK] - Script tool to validate url's online.
